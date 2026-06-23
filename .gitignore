@@ -8,6 +8,7 @@ target/
 # macOS
 .DS_Store
 
+data
 # NOTE:
 # - Keep `Cargo.lock` committed for applications (do NOT add it here).
 # - Keep `.env.example` tracked in the repo as a template (do NOT add it here).
