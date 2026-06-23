@@ -1,0 +1,13 @@
+# Build artifacts
+target/
+
+# Local env files (contain secrets) — keep out of VCS
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# NOTE:
+# - Keep `Cargo.lock` committed for applications (do NOT add it here).
+# - Keep `.env.example` tracked in the repo as a template (do NOT add it here).
